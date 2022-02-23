@@ -17,7 +17,7 @@ public class GPHW01UserInput {
 
 				int arrSize = input.nextInt(); // declaration of how many elements are in array
 
-				int array[] = new int[arrSize]; // declaration of the array itself
+				int[] array = new int[arrSize]; // declaration of the array itself
 
 				System.out.println("Please enter the elements of the array");
 

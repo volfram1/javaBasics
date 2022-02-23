@@ -22,7 +22,7 @@ public class PrimitiveCasting {
 		int num=(int)10.99;
 		System.out.println(num);
 		
-		float f=10.99; //Type mismatch: cannot convert from double to float
+		float f=10.99f; //Type mismatch: cannot convert from double to float
 		
 		byte b=(byte)1000;
 		System.out.println(b);
